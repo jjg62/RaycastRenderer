@@ -7,9 +7,9 @@ The program renders a scene, as defined within main.cpp, to a 2D image. It inclu
 -  Support for other BRDFs in general
 -  Raytracing trees for full specular (mirror-like) reflection and refraction
 -  Photon mapping for:
-  - Global illumination (diffuse interreflection)
-  - Caustics
-  - Use of shadow photons for efficiency
+   - Global illumination (diffuse interreflection)
+   - Caustics
+   - Use of shadow photons for efficiency
 - Depth of field effect by supersampling rays
 
 These effects can all be seen in the example image, FinalImage.png.
